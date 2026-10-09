@@ -1,1 +1,3 @@
-this is a master branch fi)e
+
+this is a master branch file
+This is a feature branch file 

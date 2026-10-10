@@ -1,0 +1,15 @@
+# Temporary files
+* .tmp
+* .log
+# python
+__pycache__/
+* .pyc
+* .venv
+# java
+* .class
+out/
+# secrets
+.env
+# Editor settings
+.vscode/
+
